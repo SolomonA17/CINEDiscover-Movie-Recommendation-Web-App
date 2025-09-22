@@ -270,6 +270,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Lucide React](https://lucide.dev/) for icons
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Next.js](https://nextjs.org/) for the framework
-
-
-  have ada
