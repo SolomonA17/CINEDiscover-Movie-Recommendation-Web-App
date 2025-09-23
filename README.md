@@ -2,7 +2,7 @@
 
 A modern, responsive movie recommendation web app built with Next.js, TypeScript, and Tailwind CSS. Browse trending movies, get personalized recommendations, and manage your favorites with a beautiful, intuitive interface.
 
-![CineDiscover Preview](https://images.unsplash.com/photo-1489599735552-3c6c6bb3e00a?w=1200&h=600&fit=crop&crop=center)
+![CineDiscover Preview](https://ibb.co/9m2HJYTM)
 
 ## ✨ Features
 
@@ -266,7 +266,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for movie data
-- [Unsplash](https://unsplash.com/) for placeholder images
+- [Imgbb](https://imgbb.com/) for placeholder images
 - [Lucide React](https://lucide.dev/) for icons
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Next.js](https://nextjs.org/) for the framework
