@@ -2,7 +2,7 @@
 
 A modern, responsive movie recommendation web app built with Next.js, TypeScript, and Tailwind CSS. Browse trending movies, get personalized recommendations, and manage your favorites with a beautiful, intuitive interface.
 
-("https://github.com/user-attachments/assets/5c8d372f-b7ae-4d0a-a21e-28eb4e562400")
+![]("https://github.com/user-attachments/assets/5c8d372f-b7ae-4d0a-a21e-28eb4e562400")
 
 ## ✨ Features
 
