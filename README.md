@@ -266,7 +266,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for movie data
-- [Imgbb](https://imgbb.com/) for placeholder images
 - [Lucide React](https://lucide.dev/) for icons
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Next.js](https://nextjs.org/) for the framework
