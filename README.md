@@ -258,8 +258,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Check browser console for JavaScript errors
 
 ### Getting Help
-
-- Check the [Issues](https://github.com/yourusername/cinediscover/issues) page
 - Review TMDB API documentation
 - Check browser developer tools for errors
 
